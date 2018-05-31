@@ -1,2 +1,2 @@
-from 13132108332/hello-yangge:github
+from 13132108332/centos
 label maintainer="yangminmin"
