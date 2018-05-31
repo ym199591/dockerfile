@@ -1,2 +1,2 @@
-from 13132108332/centos
+from centos
 label maintainer="yangminmin"
